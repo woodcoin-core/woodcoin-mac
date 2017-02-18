@@ -1,0 +1,1 @@
+# Woodcoin client for Mac
